@@ -16,7 +16,7 @@ html {
 
 .header {
     height: 800px;
-    background: url(/src/img/header_img.jpg) center center/cover no-repeat;
+    background: url(../img/header_img.jpg) center center/cover no-repeat;
     padding: 39px 0 62px 0;
 }
 
@@ -222,6 +222,11 @@ h2.first_info {
 .body2 {
     min-height: 550px;
     padding: 102px 0 107px 0;
+    position: relative;
+}
+
+.body2 .container {
+  position: static;
 }
 
 .body2 .whyoptimization {
@@ -255,8 +260,8 @@ h2.first_info {
 
 .body2 .girl {
     position: absolute;
-    top: -54px;
-    left: -240px;
+    bottom: 0;
+    left: 240px;
     z-index: -1;
     width: 868px;
     height: 502px;
@@ -265,7 +270,7 @@ h2.first_info {
 
 
 .body3 {
-    background: url(/src/img/body_img.jpg) center center/cover no-repeat;
+    background: url(../img/body_img.jpg) center center/cover no-repeat;
     min-height: 447px;
     padding: 86px 0 79px 0;
 }
