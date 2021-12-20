@@ -76,9 +76,7 @@ h2.first_info {
     font-weight: 300;
     font-style: normal;
     letter-spacing: normal;
-    line-height: 28px;
     line-height: normal;
-    font-style: normal;
     text-align: center;
 }
 
@@ -101,7 +99,6 @@ h2.first_info {
     background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
     text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.22);
     color: #ffffff;
-    font-family: "Roboto Condensed";
     font-size: 21px;
     font-weight: 400;
     font-style: normal;
@@ -123,7 +120,6 @@ h2.first_info {
     background-image: linear-gradient(to top, #2798b9 0%, #3ab6da 100%);
     text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.22);
     color: #ffffff;
-    font-family: "Roboto Condensed";
     font-size: 21px;
     font-weight: 400;
     font-style: normal;
@@ -248,7 +244,6 @@ h2.first_info {
     font-style: normal;
     letter-spacing: normal;
     line-height: 27px;
-    font-weight: 300;
 }
 
 .body2 .textbody2 span {
@@ -266,8 +261,6 @@ h2.first_info {
     width: 868px;
     height: 502px;
 }
-
-
 
 .body3 {
     background: url(../img/body_img.jpg) center center/cover no-repeat;
@@ -325,8 +318,6 @@ h2.first_info {
     line-height: 20px;
 }
 
-
-
 .body4 {
     min-height: 628px;
     background-color: #efefef;
@@ -345,7 +336,7 @@ h2.first_info {
     font-weight: 400;
     font-style: normal;
     letter-spacing: normal;
-    line-height: 43px;   
+    line-height: 43px;
 }
 
 .last_body {
@@ -368,7 +359,7 @@ h2.first_info {
     margin-top: 30px;
     color: #299cbd;
     font-size: 36px;
-    font-weight: 900;    
+    font-weight: 900;
     font-style: normal;
     letter-spacing: normal;
     text-align: center;
@@ -389,7 +380,7 @@ h2.first_info {
     min-height: 166px;
     background: #1a1a1a center center/cover no-repeat;
     padding-top: 61px;
-    text-align: center; 
+    text-align: center;
 }
 
 .footer_text, .phonecall, .phonecall a {
